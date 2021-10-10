@@ -148,3 +148,7 @@ body {
 .detailBox p a:hover {
     color: red;
 }
+
+.lefty {
+float:left;
+}
